@@ -11,8 +11,7 @@ Run `npm install`
 
 Connect your device (android / ios).
 
-Open a new terminal and run `npm run android` if you're on android or `npm run ios` if you're on ios.
-Run `npm run start`
+Open a new terminal and run `npm run android` if you're on android or `npm run ios` if you're on ios then run `npm run start`
 
 Done, enjoy the app ! :)
 
