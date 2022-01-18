@@ -1,0 +1,14 @@
+com/nestytest/ReactNativeFlipper.java
+ com.nestytest.ReactNativeFlipper
+ com.nestytest.ReactNativeFlipper$1
+ com.nestytest.ReactNativeFlipper$2
+ com.nestytest.ReactNativeFlipper$2$1
+com/nestytest/BuildConfig.java
+ com.nestytest.BuildConfig
+com/nestytest/MainApplication.java
+ com.nestytest.MainApplication
+ com.nestytest.MainApplication$1
+com/nestytest/MainActivity.java
+ com.nestytest.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
