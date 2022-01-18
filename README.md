@@ -1,14 +1,18 @@
+### Coffee Master
 
-### Install
+Just a little project to render few coffee pictures with a form to submit
 
-You need to have node installed.
+## Install
+
+You need to have node installed (be careful about the version, use LTS).
 Run `npm install`
 
-### Launch
+## Launch
 
-Connect your device.
-Run `npm run start`
+Connect your device (android / ios).
+
 Open a new terminal and run `npm run android` if you're on android or `npm run ios` if you're on ios.
+Run `npm run start`
 
 Done, enjoy the app ! :)
 
